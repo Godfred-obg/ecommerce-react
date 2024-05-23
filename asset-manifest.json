@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react/static/css/main.7fe9dac3.css",
+    "main.js": "/ecommerce-react/static/js/main.40dd03be.js",
+    "static/js/453.cba3e1e9.chunk.js": "/ecommerce-react/static/js/453.cba3e1e9.chunk.js",
+    "static/media/discount.jpg": "/ecommerce-react/static/media/discount.62051e3b0165651fa949.jpg",
+    "static/media/womens-clothes.webp": "/ecommerce-react/static/media/womens-clothes.959f710864b52ced5487.webp",
+    "static/media/men-clothes.webp": "/ecommerce-react/static/media/men-clothes.5fec904451b80ac84797.webp",
+    "static/media/shop.jpg": "/ecommerce-react/static/media/shop.63c1d56ff336da07caec.jpg",
+    "static/media/electronics.webp": "/ecommerce-react/static/media/electronics.079577f6c0503f4b9a07.webp",
+    "static/media/jewelery.webp": "/ecommerce-react/static/media/jewelery.e9474f2808c3c4e529ac.webp",
+    "static/media/slick.svg": "/ecommerce-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecommerce-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecommerce-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ecommerce-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ecommerce-react/index.html",
+    "static/media/menu(black).svg": "/ecommerce-react/static/media/menu(black).644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/menu(white).svg": "/ecommerce-react/static/media/menu(white).fa38652d4a5d20ff80fabc9f67bac656.svg",
+    "static/media/x.svg": "/ecommerce-react/static/media/x.ba409283992ff87f0d174c60d2365fd8.svg",
+    "static/media/x(1).svg": "/ecommerce-react/static/media/x(1).fbb0e8e312f7693d66bd67a3679f6fe3.svg",
+    "static/media/cart.svg": "/ecommerce-react/static/media/cart.927f3c8b6e99cecb71b761d0763c0baa.svg",
+    "main.7fe9dac3.css.map": "/ecommerce-react/static/css/main.7fe9dac3.css.map",
+    "main.40dd03be.js.map": "/ecommerce-react/static/js/main.40dd03be.js.map",
+    "453.cba3e1e9.chunk.js.map": "/ecommerce-react/static/js/453.cba3e1e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fe9dac3.css",
+    "static/js/main.40dd03be.js"
+  ]
+}
