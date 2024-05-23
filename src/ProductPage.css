@@ -1,0 +1,113 @@
+@import url('./App.css');
+
+@media (max-width: 1265px) {
+    .cart-pane{
+        width: 45%;
+      }
+    
+}
+@media (max-width: 985px) {
+    .cart-pane{
+        width: 55%;
+      }
+    
+}
+@media (max-width: 981px) {
+      
+    
+}
+@media (max-width: 810px) {
+    .cart-pane{
+        width: 75%;
+      }
+    
+}
+@media (max-width: 600px) {
+    .cart-pane{
+        width: 95vw;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    
+}
+
+@media (max-width: 683px) {
+    #title {
+        font-size: 18px;
+        text-align: center;
+        width: 50%;
+    }
+    
+}
+@media (max-width: 663px) {
+    .description p {
+        font-size: 14px;
+      }
+    
+}
+@media (max-width: 675px) {
+    .description {
+        width: 190%;
+        padding: 0;
+      }
+      .product-description {
+        flex-direction: column;
+      }
+      #title {
+        width: 170%;
+      }
+      .product-page {
+        padding: 0;
+        width: 50%;
+      }
+    
+}
+@media (max-width: 523px) {
+    .product-page {
+      padding: 0;
+      width: 60%;
+    }
+  
+}
+@media (max-width: 480px) {
+    .cart-details{
+        width: 80%;
+      }
+      .cart-details h4{
+        font-size: 13px;
+        font-weight: 400;
+      }
+      .cart-details h5 {
+        font-size: 12px;
+        font-weight: 700;
+        margin: 5px;
+      }
+    
+}
+@media (max-width: 440px) {
+    #title {
+        width: 120%;
+      }
+      .product-page {
+        padding: 0;
+        width: 68%;
+      }
+      .description h3{
+        font-size: 17px;
+      }
+}
+@media (max-width: 400px) {
+    .description {
+      width: 160%;
+    }
+    .buttons button {
+        padding: 0.5rem 2rem;
+
+    }
+}
+@media (max-width: 397px) {
+  .counter h4 {
+    width: 1.6rem;
+  }
+    
+}
